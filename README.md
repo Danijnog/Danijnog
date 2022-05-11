@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying Systems Engineering at UFMG in Brazil :)
-- 🌱 I’m currently learning Wordpress and searching more about programming languages!
+- 🌱 I’m currently learning c++
 - 📫 You can reach me on instagram and twitter: @danijnog
 - ⚡ Fun fact: i started programming only at college, i suffered to learn some stuffs but better late than never!
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi!
 - 🔭 I’m currently studying Systems Engineering at UFMG in Brazil 
 - 🌱 I’m currently learning c++
 - 📫 You can reach me on instagram and twitter: @danijnog

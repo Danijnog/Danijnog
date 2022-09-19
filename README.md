@@ -1,5 +1,4 @@
 ### hi!
-- 🔭 I’m currently studying Systems Engineering at UFMG in Brazil 
 
 
 <!--

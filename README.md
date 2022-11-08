@@ -17,7 +17,7 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://github.com/Danijnog/Danijnog/blob/main/github.png">
-  <img src = "https://github.com/Danijnog/Danijnog/blob/main/github.png">
+  <img height = "35" width = "35" src = "https://github.com/Danijnog/Danijnog/blob/main/github.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 

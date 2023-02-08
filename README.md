@@ -33,6 +33,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart:
+<!--   <p>Feito com :heart: -->
 </div>
 

@@ -1,7 +1,6 @@
 <div align ="center" >
   <p>
     <b>
-      UX designer que brinca com um pouquinho de código também!
     </b>
   </p>
   

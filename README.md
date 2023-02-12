@@ -18,6 +18,7 @@
   <img align = "center" alt = "cpp" height = "35" width = "35" src = "https://github.com/Danijnog/Danijnog/blob/main/cpp_logo.png">
   <img align="center" alt="linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="figma" height="35" width="35" src="https://github.com/Danijnog/Danijnog/blob/main/figma.svg">
+  <img align="center" alt="photoshop" height="35" width="35" src="file:///C:/Users/danie/Dropbox/PC/Downloads/Adobe_Photoshop_CC_icon.svg">
   
 </div><br>
 

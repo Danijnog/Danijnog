@@ -15,10 +15,9 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align = "center" alt = "github" height = "35" width = "35" src = "https://github.com/Danijnog/Danijnog/blob/main/github.png"> -->
   <img align = "center" alt = "cpp" height = "35" width = "35" src = "https://github.com/Danijnog/Danijnog/blob/main/cpp_logo.png">
   <img align="center" alt="linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="figma" height="35" width="35" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg">
+  <img align="center" alt="figma" height="35" width="35" src="https://github.com/Danijnog/Danijnog/blob/main/Icon.svg">
   
 </div><br>
 

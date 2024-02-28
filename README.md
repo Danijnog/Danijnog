@@ -13,17 +13,16 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align = "center" alt = "c" height = "35" width = "35" src = "https://github.com/Danijnog/Danijnog/blob/main/c_logo.png">
-  <img align = "center" alt = "cpp" height = "35" width = "35" src = "https://github.com/Danijnog/Danijnog/blob/main/cpp_logo.png">
-  <img align="center" alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <br> </br>
-  <img align="center" alt="figma" height="35" width="35" src="https://github.com/Danijnog/Danijnog/blob/main/figma.svg">
-  <img align="center" alt="photoshop" height="35" width="35" src="https://github.com/Danijnog/Danijnog/blob/main/photoshop_icon.svg">
-  
+## Technologies I use most in my daily life
+<div style="display: inline_block">
+  <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black">
+  <img align="center" alt="premiere" src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logoColor=white">
 </div><br>
 
+## Connect with me
 <div align="center">
   <a href="https://www.instagram.com/danijnog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-nogueira-b83b95254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

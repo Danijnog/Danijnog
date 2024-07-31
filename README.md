@@ -15,17 +15,15 @@
 
 ## technologies I use most in my daily life
 <div style="display: inline_block">
+  <img align="center" alt="cpp" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black">
-  <img align="center" alt="premiere" src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logoColor=white">
 </div><br>
 
 ## technologies i'm learning
 <div style="display: inline_block">
   <img align="center" alt="cpp" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img align="center" alt="cpp" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br>
 
 ## connect with me

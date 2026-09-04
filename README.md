@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/Danijnog">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danijnog&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danijnog&theme=dracula&hide_border=false&layout=compact"/>
+    
   </a>
 </div>
 
@@ -26,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Danijnog/Danijnog/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Danijnog/Danijnog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">

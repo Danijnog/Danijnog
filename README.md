@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src=".github/workflows/snake.yml" alt="Snake animation" />
+  ![snake animation](https://github.com/<Danijnog>/<Danijnog>/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 <div align="center">

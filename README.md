@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  ![snake animation](https://github.com/Danijnog/Danijnog/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://raw.githubusercontent.com/Danijnog/Danijnog/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
